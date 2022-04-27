@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Pradeep will give maven presentation Tomorrow</h2>
+<h2>Hello everyone</h2>
 </body>
 </html>
