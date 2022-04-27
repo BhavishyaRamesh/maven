@@ -7,7 +7,7 @@
 
    <body>
       <p>Hlo guru</p>
-      <img src = "https://gurumandya.s3.amazonaws.com/guru.jpg" alt = "Test Ima>
+      <img src = "https://gurumandya.s3.amazonaws.com/guru.jpg" /img>
    </body>
 
 </html>
