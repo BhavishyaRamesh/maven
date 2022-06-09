@@ -6,7 +6,7 @@
    </head>
 
    <body>
-      <p>Hlo guru</p>
+      <p>Hello</p>
       <img src = "https://gurumandya.s3.amazonaws.com/guru.jpg" /img>
    </body>
 
